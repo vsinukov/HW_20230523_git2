@@ -10,6 +10,9 @@
     line-height: 30px;
     letter-spacing: 0.1px;
 }
+.fs10{
+    font-size: 12px;
+}
 .linknodec{
     text-decoration: none;
 }
